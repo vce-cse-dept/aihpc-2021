@@ -1,0 +1,37 @@
+# todo - add team members
+- title: Alexia Audevart
+  type: volunteers
+  subtitle: Toulouse Data Science
+  photo: alexia_audevart.jpeg
+  socials:
+    - link: "https://www.twitter.com/aaudevart"
+      name: Twitter
+    - link: "https://github.com/aaudevart"
+      name: Github
+    - link: "https://www.linkedin.com/in/alexia-audevart-450b8a1/"
+      name: Linkedin
+  key: alexia_audevart
+- title: Aurélie Vache
+  type: core
+  subtitle: Duchess France / Toulouse Data Science
+  photo: aurelie_vache.png
+  socials:
+    - link: "https://www.twitter.com/aurelievache"
+      name: Twitter
+    - link: "http://scraly.com/"
+      name: Site
+    - link: "https://www.linkedin.com/in/aurelievache"
+      name: LinkedIn
+    - link: "https://github.com/scraly"
+      name: Github
+  key: aurelie_vache
+- title: Jean Martineau-Figuette
+  type: cfp
+  subtitle: React Meetup
+  photo: euzebe.jpg
+  socials:
+    - link: "https://www.twitter.com/jeanMartiF"
+      name: Twitter
+    - link: "https://www.linkedin.com/in/jean-martineau-figuette/"
+      name: LinkedIn
+  key: euzebe

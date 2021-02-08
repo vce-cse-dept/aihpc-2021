@@ -1,4 +1,71 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://aihpc2021-demo-wip.onrender.com/"
+languageCode = "en"
+title = "AIHPC - 2021"
 theme = "devfest-theme-hugo"
+
+enableEmoji = true
+enableRobotsTXT = true
+enableMissingTranslationPlaceholders = true
+
+[params]
+title = "AIHPC - 2021 "
+date = "2021-02-05"
+description = "International Conference on AI and High Performance Computing will take place at Vardhaman of Engineering, Hyderabad, India, from December 18-19, 2021."
+images = ["/images/social-share.jpg"]
+email = "hodcse@vardhaman.org"
+keywords = "event, conference, speakers, programming, developers"
+copyright = "CSE Department, Vardhaman College of Engineering. We ❤️️ Speakers."
+subscriptionUrl = ""
+sponsorshipUrl=""
+appleTouchIcon = "/apple-touch-icon.png"
+favicon48 = "/favicon-48x48.png"
+favicon32 = "/favicon-32x32.png"
+favicon16 = "/favicon-16x16.png"
+manifest = "/manifest.json"
+safariPinnedTab = "/safari-pinned-tab.svg"
+themeColor = "#673ab7"
+googleWebmasterKey = "BcIJYWDHoblML5DO66_b1BGBne9J_7Oq3GjC5SDCKK8"
+env="production"
+
+[params.logos]
+jumbo = "/images/logos/logo-work.png"
+header = "/images/logos/logo-work.png"
+footer = "/images/logos/logo-col.png"
+
+[menu]
+[[menu.main]]
+identifier = "jobs"
+name = "Volunteer"
+url = "https://jobs.devfesttoulouse.fr/"
+weight = 200
+external = true
+
+[languages]
+[languages.en]
+weight = 1
+languageName = "gb"
+
+[taxonomies]
+tag = "tags"
+
+[privacy]
+[privacy.disqus]
+disable = true
+[privacy.googleAnalytics]
+anonymizeIP = false
+disable = false
+respectDoNotTrack = false
+useSessionStorage = false
+[privacy.instagram]
+disable = true
+simple = false
+[privacy.twitter]
+disable = false
+enableDNT = false
+simple = false
+[privacy.vimeo]
+disable = true
+simple = false
+[privacy.youtube]
+disable = false
+privacyEnhanced = false

@@ -1,0 +1,16 @@
+id: HJRThubF4uYPkb7jSUxi
+name: Artificial Intelligence & High Performance Computing 2021
+address:
+  formattedAddress: "Vardhaman College of Engineering, Kacharam, Hyderabad, India"
+  locality:
+    short_name: Shamshabad
+    long_name: Shamshabad
+  country:
+    short_name: IN
+    long_name: India
+  latLng:
+    lat: 43.6115538
+    lng: 1.4345827
+dates:
+  start: "2021-12-18T10:00:00.000Z"
+  end: "2021-12-19T10:00:00.000Z"
