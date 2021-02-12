@@ -35,3 +35,12 @@ This track in conference we welcome papers from reseaerchers on computer network
 - Wireless Multimedia Systems
 - Digital Forensic
 - Block Chain
+
+## Dates to be Remembered -- Increase Size of Font inside table
+
+| Title                                    |             Date |
+| :--------------------------------------- | ---------------: |
+| Submission Opening date                  |  23rd April 2021 |
+| Submission closing date                  |    3rd July 2021 |
+| Acceptance notification for final papers |  2nd August 2021 |
+| Camera Ready copy deadline               | 22nd August 2021 |

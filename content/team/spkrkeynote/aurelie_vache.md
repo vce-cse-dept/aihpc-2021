@@ -1,6 +1,6 @@
 ---
 title: Aurélie Vache
-type: core
+type: spkrkeynote
 subtitle: Duchess France / Toulouse Data Science
 photo: aurelie_vache.png
 socials:

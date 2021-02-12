@@ -1,17 +1,16 @@
 ---
-title: Team
+title: AIHPC Committee
 type: team
 menu:
   main:
     weight: 60
 
 draft: false
-
 ---
 
 {{% hero %}}
 
-DevFest Toulouse is a Toulouse community-driven conference, and administratively supported by GDG Toulouse.
+Todo - Program committee members follows
 
 To make all this possible, an awesome team of volunteers is working behind the scenes.
 
@@ -19,10 +18,12 @@ To make all this possible, an awesome team of volunteers is working behind the s
 
 <!-- ... -->
 
-{{< teams types="core=Core Team,volunteers=Volunteers,cfp=CFP" >}}
+{{< teams types="spkrkeynote=Keynote Speakers,cheifpatron=Cheif Patrons,patrons=Patrons,internationaladvisors=International Advisors,nationaladvisors=National Advisors,generalchair=General Chair,techcommittee=Techinal Conference Committee" >}}
 
 <!-- ... -->
 
 {{% partners categories="communautes,media" %}}
+
 # Partners
+
 {{% /partners %}}

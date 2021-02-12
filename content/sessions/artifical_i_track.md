@@ -1,28 +1,28 @@
 ---
-key: high_performance_computing
-title: High Performance Computing
-id: iU4EzEThVDvpaHDsGjOO
+key: artificial_intel
+title: "Artificial Intelligence"
+id: pY6MCQBMfIYlIKfHdhL4
 language: English
 format: conference
 tags:
-  - _cloud___infra
-level: beginner
+  - _big_data___ml___ai # todo - check how it is working
+level: expert
 speakers:
-  - adrien_anceau # todo - change it
-videoId: l44o4gt62GM
-presentation: null # https://cyrildelmas-drive.mycozy.cloud/public?sharecode=SbIDrGv5mU9h
+  - "adrien_anceau" # todo - change it
+videoId: "JADZMaRL4cE" # todo - add new video tag
+presentation: null
 draft: false
 ---
 
 lorem ispum - todo
 
-This track in conference we welcome papers from reseaerchers on high performance computing but not limited to following categerios.
+This track in conference we welcome papers from reseaerchers on broad data science field but not limited to following categerios.
 
 - Quantum Computing
-- Cloud Computing
+- High Performance Computing
 - Grid Computing
 - Human-Centered Computing
-- Parallel and Distributed Computing
+- Distributed Computing
 - Social Computing
 - Edge Computing
 - Cognitive Computing

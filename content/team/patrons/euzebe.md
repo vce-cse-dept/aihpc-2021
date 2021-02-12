@@ -1,6 +1,6 @@
 ---
 title: Jean Martineau-Figuette
-type: cfp
+type: patrons
 subtitle: React Meetup
 photo: euzebe.jpg
 socials:
